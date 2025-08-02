@@ -1,4 +1,4 @@
-Gemini Chatbot
+# AI-chatbot
 This project is a simple, customizable web-based chatbot that uses the Google Gemini API to generate responses. It features a clean and modern chat interface and is built with HTML, CSS, and JavaScript.
 
 Features
@@ -64,4 +64,4 @@ Change the profile images for the user and the bot by updating the image paths i
 Contributing
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-# AI-chatbot
+
