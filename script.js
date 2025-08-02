@@ -1,5 +1,5 @@
-const API_KEY='AIzaSyCx4nshXSyZzQqhoZgdxFm3GLUerNyXNmg'
-const API_URL='https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent'
+const API_KEY='xxxxxxxxxxxxxxxxxxxxxxxx'
+const API_URL='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 const chatMessages = document.getElementById('chat-messages');
 // Gets the DOM element with the ID 'chat-messages', where the chat messages (user and bot) will be displayed.
 
@@ -155,6 +155,7 @@ userInput.addEventListener('keypress', (e) => {
         // Calls `handleUserInput` to send the message.
     }
 });
+
 
 
 
